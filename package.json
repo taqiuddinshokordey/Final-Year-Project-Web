@@ -42,7 +42,7 @@
     "nodemailer-smtp-transport": "^2.7.4",
     "serve-favicon": "^2.5.0",
     "shortid": "^2.2.15",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "underscore": "^1.10.2",
     "xoauth2": "^1.2.0"
   },
